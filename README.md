@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 📫 You can reach me at **milo.restelli@gmail.com**
 - 🖥 Don't forget to check out my [Website](https://mylo17.github.io/)
 
-<h1 align="center">Langueges and tools</h1>
+<h1 align="center">Langueges and tools:</h1>
 <div align="center">
+<img src="icons/icons8-java-48.png">
 <img src="icons/icons8-python-48.png">
 <img src="icons/icons8-golang-48.png">
-<img src="icons/icons8-java-48.png">
 <img src="icons/icons8-javascript-48.png">
 <img src="icons/icons8-html-5-48.png">
 <img src="icons/icons8-css3-48.png">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img src="icons/icons8-console-48.png">
 </div>
 
-<h1 align="center">Stats</h1>
+<h1 align="center">Stats:</h1>
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=mylo17&show_icons=true&theme=dracula">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula">
