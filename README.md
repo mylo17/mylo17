@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on getting my computer science degree
 - 🌱 I’m currently learning advanced Go
-- 🎯 2022 Goals: Collaborate on open source and learn more about Web3
+- 🎯 2025 Goals: Collaborate on open source and learn more about Web3
 - 📫 You can reach me at **milo.restelli@gmail.com**
 - 🖥 Don't forget to check out my [Website](https://mylo17.github.io/)
 
